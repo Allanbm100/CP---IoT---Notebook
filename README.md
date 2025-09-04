@@ -1,6 +1,3 @@
-# Checkpoint 01 – Data Science e Machine Learning no Python, Google Colab e Orange Data Mining
-
-Este projeto corresponde ao **Checkpoint 01** da disciplina, dividido em **4 partes**, utilizando **Google Colab (Python)** e a ferramenta **Orange Data Mining**.
 
 ---
 
